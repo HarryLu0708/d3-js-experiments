@@ -1,0 +1,14 @@
+{
+  "name": "ce34fbbf334e0cdd",
+  "main": "ce34fbbf334e0cdd@78.js",
+  "version": "78.0.0",
+  "homepage": "https://observablehq.com/d/ce34fbbf334e0cdd",
+  "author": {
+    "name": "d3experiments",
+    "url": "https://observablehq.com/@d3experiments"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
